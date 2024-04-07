@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm ABHISHEK KUTE</h1>
 <h3 align="center">A passionate Python and Frontend developer from India</h3>
 <img  alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/03/hhfhwf.gif">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkute234&show_icons=true&locale=en&layout=compact" alt="abhishekkute234" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkute234" alt="abhishekkute234" /></a> </p>
 
