@@ -1,6 +1,6 @@
+<h1 align="center">Hi 👋, I'm ABHISHEK KUTE</h1>
 ![MasterHead](https://propulsive.in/assets/img/service-icon/dev.gif)
 
-<h1 align="center">Hi 👋, I'm ABHISHEK KUTE</h1>
 <h3 align="center">A passionate Python and Frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkute234" alt="abhishekkute234" /></a> </p>
