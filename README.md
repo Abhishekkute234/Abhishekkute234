@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ABHISHEK KUTE</h1>
 ![MasterHead](https://propulsive.in/assets/img/service-icon/dev.gif)
+<h1 align="center">Hi 👋, I'm ABHISHEK KUTE</h1>
 
 <h3 align="center">A passionate Python and Frontend developer from India</h3>
 
