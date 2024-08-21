@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">| Rust Developer | Data Scientist | Full-Stack Web Developer | Linux User | Python Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekkute234&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkute234" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -129,6 +127,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkute234&show_icons=true&locale=en&layout=compact" alt="abhishekkute234" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekkute234&show_icons=true&locale=en" alt="abhishekkute234" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkute234&" alt="abhishekkute234" /></p>
