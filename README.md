@@ -9,11 +9,6 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Rust projects**
-
-- 💬 Ask me about **Data Structures, Data Science, Web Development**
-
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abhishek-kute-a85822257/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
