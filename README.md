@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm currently working at startup as an SDE intern at Experia Innovations Private Limited<br>Solved 100+ Data structure problems<br>System Designer <br>Data scientist 
 
-![Description of GIF]([https://media.giphy.com/media/your-gif-id/giphy.gif](https://preview.redd.it/which-tool-is-used-to-make-deployment-diagrams-animated-v0-9mglchznt9db1.gif?width=1540&auto=webp&s=b355f467c74a1ced5b96a44fb11fc75acc30f67d))
 
 
 ## 🌐 Socials:
