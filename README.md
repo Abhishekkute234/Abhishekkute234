@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently working at startup as an SDE intern at Experia Innovations Private Limited<br>Solved 100+ Data structure problems<br>System Designer <br>Data scientist 
 
+![Description of GIF](/![Uploading which-tool-is-used-to-make-deployment-diagrams-animated-v0-9mglchznt9db1.gif…]()
+)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-kute-a85822257/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@keep_it_sorted) 
