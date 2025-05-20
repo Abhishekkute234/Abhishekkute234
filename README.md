@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/image.png" alt="Abhishek's Banner" width="100%" />
+  <img src="/Black Technology LinkedIn Banner.jpg" alt="Abhishek's Banner" width="100%" />
 </p>
 
 ## 🌐 Socials:
